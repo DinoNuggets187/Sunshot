@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://www.bungie.net/common/destiny2_content/icons/f45a7d8e52bf0d88bbd43d4354878313.jpg"); /* Ersetze mit deiner Bild-URL */
+    background-size: auto;  /* Bild füllt den ganzen Bildschirm aus */
+    background-position: center; /* Zentriert das Bild */
+    background-repeat: repeat; /* Kein Wiederholen des Bildes */
+    height: 100vh; /* Volle Höhe des Viewports */
+    width: 100vw; /* Volle Breite des Viewports */
+}
